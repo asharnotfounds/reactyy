@@ -17,11 +17,11 @@ This is a simple React app featuring login, signup, and profile management, powe
 ### Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/react-firebase-auth-app.git
+    git clone https://github.com/asharnotfounds/reactyy.git
     ```
 2. Navigate to the project directory:
     ```bash
-    cd react-firebase-auth-app
+    cd reactyy
     ```
 3. Install the dependencies:
     ```bash

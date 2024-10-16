@@ -7,7 +7,6 @@ This is a simple React app featuring login, signup, and profile management, powe
 - **User Login**: Secure login with Firebase authentication.
 - **Profile Management**: View and manage user profile data after logging in.
 - **Firebase Integration**: Real-time authentication and user session management.
-- **Responsive UI**: Mobile-friendly design built with React components.
 
 ## Getting Started
 
